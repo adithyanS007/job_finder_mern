@@ -96,6 +96,20 @@ npm install
 npm run dev
 ```
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](client/screenshots/HomePage.png)
+
+### 📄 Job List Page
+![Job Details](client/screenshots/JobList.png)
+
+### 📄 Post Job Page
+![Job Details](client/screenshots/PostJob.png)
+
+### 📄 Job Details Page
+![Job Details](client/screenshots/JobDetails.png)
+
 ### ✨ Future Improvements
 
 - Job application form with file upload
