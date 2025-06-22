@@ -110,6 +110,12 @@ npm run dev
 ### 📄 Job Details Page
 ![Job Details](./screenshots/JobDetails.png)
 
+### 📄 Adding a Job
+![Job Details](./screenshots/PostingJob.png)
+
+### 📄 Searching Jobs
+![Job Details](./screenshots/Searching.png)
+
 
 ### ✨ Future Improvements
 
