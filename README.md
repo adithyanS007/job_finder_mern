@@ -102,19 +102,19 @@ npm run dev
 ![Home Page](./screenshots/HomePage.png)
 
 ### 📄 Job List Page
-![Job Details](./screenshots/JobList.png)
+![Job List](./screenshots/JobList.png)
 
 ### 📄 Post Job Page
-![Job Details](./screenshots/PostJob.png)
+![ Post Job](./screenshots/PostJob.png)
 
 ### 📄 Job Details Page
 ![Job Details](./screenshots/JobDetails.png)
 
 ### 📄 Adding a Job
-![Job Details](./screenshots/PostingJob.png)
+![Adding Job](./screenshots/PostingJob.png)
 
 ### 📄 Searching Jobs
-![Job Details](./screenshots/Searching.png)
+![Searching Job](./screenshots/Searching.png)
 
 
 ### ✨ Future Improvements
