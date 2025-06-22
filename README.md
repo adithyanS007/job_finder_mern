@@ -99,16 +99,17 @@ npm run dev
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](client/screenshots/HomePage.png)
+![Home Page](./screenshots/HomePage.png)
 
 ### 📄 Job List Page
-![Job Details](client/screenshots/JobList.png)
+![Job Details](./screenshots/JobList.png)
 
 ### 📄 Post Job Page
-![Job Details](client/screenshots/PostJob.png)
+![Job Details](./screenshots/PostJob.png)
 
 ### 📄 Job Details Page
-![Job Details](client/screenshots/JobDetails.png)
+![Job Details](./screenshots/JobDetails.png)
+
 
 ### ✨ Future Improvements
 
