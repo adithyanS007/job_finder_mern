@@ -7,7 +7,7 @@ const JobList = ({ searchTerm }) => {
   const [filter, setFilter] = useState("");
 
   useEffect(() => {
-  axios.get("https://job-finder-mern-server.vercel.app/jobs")
+  axios.get("http://localhost:5000/jobs")
     .then((res) => {
       setJobs(res.data.data); 
     })

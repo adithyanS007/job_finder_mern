@@ -7,7 +7,7 @@ const JobDetails = () => {
   const [job, setJob] = useState(null);
 
   useEffect(() => {
-    axios.get(`https://job-finder-mern-server.vercel.app/jobs/${id}`)
+    axios.get(`http://localhost:5000/jobs/${id}`)
       .then((res) => setJob(res.data.data))
       .catch((err) => console.error("Job not found:", err));
   }, [id]);

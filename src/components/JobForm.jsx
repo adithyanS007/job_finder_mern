@@ -15,7 +15,7 @@ const JobForm = () => {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
-    await axios.post("https://job-finder-mern-server.vercel.app/jobs", formData);
+    await axios.post("http://localhost:5000/jobs", formData);
     alert("Job posted successfully!");
     window.location.reload();
   };
