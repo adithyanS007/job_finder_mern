@@ -10,8 +10,6 @@ A full-stack responsive Job Board web application built using the **MERN Stack**
 
 ---
 
----
-
 ## 🚀 Features
 
 - View job listings (title, company, category, location)
