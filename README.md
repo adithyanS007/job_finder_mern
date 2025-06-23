@@ -4,6 +4,14 @@ A full-stack responsive Job Board web application built using the **MERN Stack**
 
 ---
 
+## 🔗 Live Preview
+
+👉 [Live App](https://job-finder-mern-livid.vercel.app/)
+
+---
+
+---
+
 ## 🚀 Features
 
 - View job listings (title, company, category, location)
